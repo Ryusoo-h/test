@@ -3,3 +3,4 @@ edited in local
 new
 git pull테스트를 위해서 한줄 추가한닷!
 git pull test 2
+server
